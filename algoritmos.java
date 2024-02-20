@@ -1,5 +1,5 @@
 
-package algoritmosEsenciales;
+package algoritmosEsenciales; // El paquete no está añadido al trabajo, hace falta una rama que la incluya
 
 public class AlgoritmosEsencialesADA {
 	
